@@ -34,35 +34,35 @@
 ### 1. [A Comprehensive Growth Analysis of Africa’s Fastest-Growing Companies in 2025](https://github.com/EizzyCode/A-Comprehensive-Growth-Analysis-of-Africa-s-Fastest-Growing-Companies-In-2025)
 📊 **What:** Analyzed growth metrics (revenue, headcount, funding, user growth) to identify the fastest-scaling African startups and scaleups in 2025.  
 💡 **Why:** Demonstrates business-savvy analytics and the ability to work with company-level time series and funding data.  
-🛠 **Tech / Data:**  Power BI, PowerQuery, (Map viusals) / Financial Times Data.
+🛠 **Tech / Data:et:**  Power BI, PowerQuery, (Map viusals) / Financial Times Data.
 
 ---
 
 ### 2. [Analysis of Health Facilities in Nigeria: Functionality & Coverage](https://github.com/EizzyCode/Analysis-of-Health-Facilities-in-Nigeria-Functionality-and-Coverage)
 📊 **What:** Evaluated national health facility data to map functional status, service coverage, and geographic gaps across wards/LGAs/states.  
 💡 **Why:** Impact-driven analytics relevant to public health policy and NGOs.  
-🛠 **Tech / Data:** Power BI, PowerQuery (map visuals) / GeoJSON shapefiles / Open Africa Data / City Population Data.
+🛠 **Tech / Dataset:** Power BI, PowerQuery (map visuals) / GeoJSON shapefiles / Open Africa Data / City Population Data.
 
 ---
 
 ### 3. [Africa’s Leading Funded Companies: A Data-Driven Analysis of Funding](https://github.com/EizzyCode/Africa-s-Leading-Funded-Companies-A-Data-Driven-Analysis-of-Funding)
 📊 **What:** Broke down funding rounds, investor types, sector distribution, and fundraising velocity among Africa’s top-funded companies.  
 💡 **Why:** Highlights finance and investment analytics skills.  
-🛠 **Tech / Data:** Power BI, PowerQuery (map visuals) / Startup List Africa.
+🛠 **Tech / Dataaset:** Power BI, PowerQuery (map visuals) / Startup List Africa.
 
 ---
 
 ### 4. [Houston City Payroll Analysis as of February 2025](https://github.com/EizzyCode/A-Technical-Report-On-Houston-City-Payroll-Analysis-As-Of-February-2025)
 📊 **What:** Explored City of Houston payroll dataset (2024–Feb 2025) to find pay distribution, overtime drivers, department costs, and anomalies.  
 💡 **Why:** Shows public-sector payroll analytics and anomaly detection skills.  
-🛠 **Tech / Data:** Excel, Power Query, Pivot Tables, Pivot Charts / Houston City Data
+🛠 **Tech / Dataset:* Excel, Power Query, Pivot Tables, Pivot Charts / Houston City Data
 
 ---
 
 ### 5. [Analysis of Revenue Allocation to State Governments by FAAC for July 2024](https://github.com/EizzyCode/Analysis-Of-Revenue-Allocation-To-State-Governments-By-FAAC-For-July-2024)
 📊 **What:** Analyzed FAAC disbursement patterns (allocation, per-capita, sector earmarks) for July 2024 and compared across states.  
 💡 **Why:** Demonstrates fiscal dataset analysis for policy makers and civic tech.  
-🛠 **Tech / Data:** Excel, Power Query, Pivot Tables, Pivot Charts / Nigeria Stats Data.
+🛠 **Tech / Data:set:** Excel, Power Query, Pivot Tables, Pivot Charts / Nigeria Stats Data.
 
 
 ---
